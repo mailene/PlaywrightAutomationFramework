@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PlaywrightAutomationFramework/PlaywrightAutomationFramework.csproj" />
+  <Project Path="PlaywrightAutomationTests/PlaywrightAutomationTests.csproj" />
+</Solution>

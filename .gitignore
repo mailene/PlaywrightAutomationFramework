@@ -1,0 +1,30 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Test results
+TestResults/
+
+# Screenshots
+Screenshots/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
